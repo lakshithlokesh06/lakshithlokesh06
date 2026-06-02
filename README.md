@@ -95,6 +95,7 @@ I'm a BCA (Data Analytics) graduate from Jain University, Bangalore, passionate 
 | 🏏 | **IPL Data Analysis** | In-depth exploratory data analysis of IPL cricket datasets | Jupyter · Pandas · Plotly |
 | 📝 | **Flask Notes App** | Lightweight full-stack notes web application | Flask · HTML · Python |
 | 🔢 | **NumPy Statistics Toolkit** | Statistical computation toolkit built with NumPy | Python · NumPy · Statistics |
+| 📊 | **Student Performance Visualization** | Interactive dashboard for analyzing student performance, rankings, insights, and statistics | Python · Streamlit · Pandas · Matplotlib |
 
 ---
 
@@ -105,6 +106,7 @@ I'm a BCA (Data Analytics) graduate from Jain University, Bangalore, passionate 
 | Commerce Data Insights Dashboard | https://commerce-data-insights.streamlit.app/ |
 | AI Career Recommendation System | https://ai-career-recommendation-system.streamlit.app/ |
 | Academic Score AI | https://academic-score-ai.streamlit.app/ |
+| Student Performance Visualization | https://performance-visualization-dashboard.streamlit.app/ |
 
 ---
 
