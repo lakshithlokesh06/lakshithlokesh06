@@ -104,7 +104,7 @@ I'm a BCA (Data Analytics) graduate from Jain University, Bangalore, passionate 
 
 | Project | Live Demo |
 |----------|----------|
-| 🚀 AutoInsight – Intelligent Dataset Analyzer | https://autoinsight.streamlit.app/ |
+| 🚀 AutoInsight – Intelligent Dataset Analyzer | https://autoinsight-analytics.streamlit.app/ |
 | 🛒 Commerce Data Insights Dashboard | https://commerce-data-insights.streamlit.app/ |
 | 🎯 AI Career Recommendation System | https://ai-career-recommendation-system.streamlit.app/ |
 | 📈 Academic Score AI | https://academic-score-ai.streamlit.app/ |
