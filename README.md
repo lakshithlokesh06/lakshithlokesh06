@@ -85,6 +85,7 @@ I'm a BCA (Data Analytics) graduate from Jain University, Bangalore, passionate 
 
 | # | Project | Description | Tech Stack |
 |---|---------|-------------|------------|
+| 🚀 | **AutoInsight – Intelligent Dataset Analyzer** | Production-ready AI-powered exploratory data analysis platform that automates dataset profiling, interactive visualizations, data quality assessment, machine learning recommendations, and professional report generation for any CSV dataset | Python · Streamlit · Pandas · Plotly · Scikit-learn · ReportLab |
 | 🎯 | **Career Recommendation System** | ML-powered system that recommends career paths based on skills and interests | Python · Scikit-learn · Streamlit |
 | 📈 | **Student Score Predictor** | Predicts academic performance using regression and classification models | Python · Pandas · ML |
 | ⚡ | **Sales Analysis using Apache Spark** | Big data sales analytics pipeline processing large-scale datasets | Apache Spark · PySpark · Python |
@@ -103,10 +104,11 @@ I'm a BCA (Data Analytics) graduate from Jain University, Bangalore, passionate 
 
 | Project | Live Demo |
 |----------|----------|
-| Commerce Data Insights Dashboard | https://commerce-data-insights.streamlit.app/ |
-| AI Career Recommendation System | https://ai-career-recommendation-system.streamlit.app/ |
-| Academic Score AI | https://academic-score-ai.streamlit.app/ |
-| Student Performance Visualization | https://performance-visualization-dashboard.streamlit.app/ |
+| 🚀 AutoInsight – Intelligent Dataset Analyzer | https://autoinsight.streamlit.app/ |
+| 🛒 Commerce Data Insights Dashboard | https://commerce-data-insights.streamlit.app/ |
+| 🎯 AI Career Recommendation System | https://ai-career-recommendation-system.streamlit.app/ |
+| 📈 Academic Score AI | https://academic-score-ai.streamlit.app/ |
+| 📊 Student Performance Visualization | https://performance-visualization-dashboard.streamlit.app/ |
 
 ---
 
