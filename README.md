@@ -85,6 +85,7 @@ I'm a BCA (Data Analytics) graduate from Jain University, Bangalore, passionate 
 
 | # | Project | Description | Tech Stack |
 |---|---------|-------------|------------|
+| ✈️ | **AI Smart Travel Planner** | Full-stack AI-powered travel planning platform that generates personalized itineraries using a LangGraph-based multi-agent architecture with secure authentication, PostgreSQL, PDF export, saved trips, and optional live travel API integrations | Next.js · React · TypeScript · FastAPI · Python · PostgreSQL · SQLAlchemy · LangGraph · LangChain · OpenAI · Tailwind CSS |
 | 🚀 | **AutoInsight – Intelligent Dataset Analyzer** | Production-ready AI-powered exploratory data analysis platform that automates dataset profiling, interactive visualizations, data quality assessment, machine learning recommendations, and professional report generation for any CSV dataset | Python · Streamlit · Pandas · Plotly · Scikit-learn · ReportLab |
 | 🎯 | **Career Recommendation System** | ML-powered system that recommends career paths based on skills and interests | Python · Scikit-learn · Streamlit |
 | 📈 | **Student Score Predictor** | Predicts academic performance using regression and classification models | Python · Pandas · ML |
